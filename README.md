@@ -1,4 +1,4 @@
-# Hi, I'm Noel Vitalicio Jr. 
+ # Hi, I'm Noel Vitalicio Jr. 
 
 [One-line intro: e.g., "Aspiring learners of Web / Apps Software / Developer."]
 
@@ -25,6 +25,6 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
 
 ## Connect with me
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:(https://mail.google.com/mail/u/0/#inbox))
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/YOUR_PROFILE)
